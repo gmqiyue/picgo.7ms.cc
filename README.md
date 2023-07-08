@@ -1,3 +1,1 @@
-# picgo_store
-
-PicGo 图床仓库。
+PicGo 图床
